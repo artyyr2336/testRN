@@ -1,4 +1,4 @@
-# rn-pizza
+
 react-native combopizza app
 
 implemented a small part of the functionality
